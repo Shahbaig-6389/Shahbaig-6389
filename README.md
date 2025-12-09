@@ -24,7 +24,7 @@
     <img src="https://img.shields.io/badge/Blogs-%23000000.svg?style=for-the-badge&logo=Ghost&logoColor=white" alt="Blog" />
   </a>
   <a href="https://buymeacoffee.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%23FFDD00.svg?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee" />
+    <img src="https://img.shields.io/badge/Learn%20More%20to%20Achieve%20More-%23FFDD00.svg?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Lear More to Achieve More" />
   </a>
   <a href="https://linktr.ee/Shahbaigf" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Learn%20More-%23007ACC.svg?style=for-the-badge&logo=linktree&logoColor=white" alt="Learn More" />
