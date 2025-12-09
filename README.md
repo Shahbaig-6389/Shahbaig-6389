@@ -1,3 +1,38 @@
+# Hi am Shah Baig <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"  width="20" height="20"/>
+
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+
+  </a>
+  <a href="https://www.linkedin.com/in/shah-baig-scea/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://teams.live.com/meet/93270366667931?p=oH1M35i37UUeXmvuu2" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Schedule%20a%20Call-%2333CC99.svg?style=for-the-badge&logo=kalender&logoColor=white" alt="Schedule a Call" />
+  </a>
+<a href="https://learn.microsoft.com/en-us/users/shahbaig-6389/transcript/dg89b6xzqwqkr2v?tab=tab-challenges&source=docs" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Microsoft Certification%20Transcript-%230078D4.svg?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Certification Transcript" />
+</a>
+ <a href="https://edex.adobe.com/community/member/qkVwi0395" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/ADOBE-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="Adobe" />
+<br>
+
+
+  <a href="https://beacons.ai/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/E--book%20Store-%23FFA500.svg?style=for-the-badge&logo=bookstack&logoColor=white" alt="E-book Store" />
+  </a>
+  <a href="https://www..com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Blog-%23000000.svg?style=for-the-badge&logo=Ghost&logoColor=white" alt="Blog" />
+  </a>
+  <a href="https://buymeacoffee.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%23FFDD00.svg?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee" />
+  </a>
+  <a href="https://linktr.ee/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Learn%20More-%23007ACC.svg?style=for-the-badge&logo=linktree&logoColor=white" alt="Learn More" />
+  </a>
+</div>
+<hr>
+
+
 - 👋 Hi, I’m Shah Baig
 - 😄 Pronouns: He/Him
 - Microsoft Certified Professional Since 2008. Now am Microsoft Advanced Educator 2025, Minecraft Education Ambassador, Adobe Creative Educator, Apple Teacher, Jamf Educator.
