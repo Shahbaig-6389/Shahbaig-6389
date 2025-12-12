@@ -17,8 +17,8 @@
 <br>
 
 
-  <a href="https://.ai/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/E--Books%20-%23FFA500.svg?style=for-the-badge&logo=bookstack&logoColor=white" alt="E-Books" />
+  <a href="https://www.credly.com/users/shah-baig.8694ecb6" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-Badges%20-%23FFA500.svg?style=for-the-badge&logo=bookstack&logoColor=white" alt="E-Books" />
   </a>
   <a href="https://shahmeencea.blogspot.com/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Blogs-%23000000.svg?style=for-the-badge&logo=Ghost&logoColor=white" alt="Blog" />
