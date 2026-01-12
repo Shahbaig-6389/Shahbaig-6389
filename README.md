@@ -12,6 +12,9 @@
 <a href="https://learn.microsoft.com/en-us/users/shahbaig-6389/transcript/dg89b6xzqwqkr2v?tab=tab-challenges&source=docs" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Microsoft Certification%20Transcript-%230078D4.svg?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Certification Transcript" />
 </a>
+ <a href="https://www.skills.google/profile/badges" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Google-%23FFDD00.svg?style=for-the-badge&logo=Google&logoColor=white" alt="Google" />
+</a>
  <a href="https://edex.adobe.com/community/member/qkVwi0395" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/ADOBE EDU-%23FF0000.svg?style=for-the-badge&logo=Adobe&logoColor=white" alt="Adobe" />
 <br>
