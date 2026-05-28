@@ -45,10 +45,16 @@ Passionate about Teaching Innovative Solutions with **AI, Cloud, and Modern New 
 <hr>
 
 
+## 🌐 Socials  
+
+.[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shahbaig_mcp) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shah-baig-scea/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)]([https://x.com/H_Shah126]) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@sb-sceacademic?si=V03cdF_Wi28bXB6B) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:educators@sceacademy.in)
+
+
+
 - 👋 Hi, I’m Shah Baig
 - 😄 Pronouns: He/Him
-- Microsoft Certified Professional Since 2008. Now am Microsoft Advanced Educator 2025, Minecraft Education Ambassador, Adobe Creative Educator, Apple Teacher, Jamf Educator.
-- 👀 I’m interested in Teaching and    Providings Trainings.
+- Microsoft Certified Professional Since 2008. Now am Microsoft Advanced Educator 2025, Minecraft Education Ambassador, IBM Faculty, Adobe Creative Educator, Apple Teacher, Jamf Educator, Canva Teacher, Cybersecurity Trainer, AI & ML Trainer, Cloud Computing, Quantum Computing Trainer.
+- 👀 I’m interested in Teaching, Providings Trainings, Teach Speaker and Motivational Speaker.
 - 🌱 I’m currently Providing Training in SCE Academy
 - 💞️ I’m looking to collaborate with Global Training Providers.
 - 📫 How to reach me to my Email
