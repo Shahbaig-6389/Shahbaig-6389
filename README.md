@@ -38,6 +38,9 @@ Passionate about Teaching Innovative Solutions with **AI, Cloud, and Modern New 
   <a href="https://linktr.ee/Shahbaigf" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Learn%20More-%23007ACC.svg?style=for-the-badge&logo=linktree&logoColor=white" alt="Learn More" />
   </a>
+  <a href="https://www.credential.net/profile/shahbaig-/wallet" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Accedible%20Badges-%5e17e.svg?style=for-the-badge&logo=Accredible&logoColor=white" alt="Accredible Badges" />
+  </a>
 </div>
 <hr>
 
@@ -50,7 +53,7 @@ Passionate about Teaching Innovative Solutions with **AI, Cloud, and Modern New 
 - 💞️ I’m looking to collaborate with Global Training Providers.
 - 📫 How to reach me to my Email
 - ⚡ Fun fact:
-- https://www.linkedin.com/in/shah-baig-scea
+- https://www.sceacademy.in
 - https://www.linkedin.com/groups/14557265
 
 <!---
