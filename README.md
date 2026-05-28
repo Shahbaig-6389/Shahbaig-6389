@@ -39,7 +39,7 @@ Passionate about Teaching Innovative Solutions with **AI, Cloud, and Modern New 
     <img src="https://img.shields.io/badge/Learn%20More-%23007ACC.svg?style=for-the-badge&logo=linktree&logoColor=white" alt="Learn More" />
   </a>
   <a href="https://www.credential.net/profile/shahbaig-/wallet" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Accedible%20Badges-%5e17e.svg?style=for-the-badge&logo=Accredible&logoColor=white" alt="Accredible Badges" />
+    <img src="https://img.shields.io/badge/Accedible%20Badges-%237F52FF.svg?style=for-the-badge&logo=Accredible&logoColor=white" alt="Accredible Badges" />
   </a>
 </div>
 <hr>
