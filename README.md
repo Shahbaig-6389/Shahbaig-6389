@@ -1,6 +1,6 @@
 # Hi am Shah Baig <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"  width="20" height="20"/>
 
-### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2500&pause=1000&color=00FFD&center=true&vCenter=true&width=600&lines=Educator,Trainer+and+Coach;Network+Engineer;Security+Engineer;Cybersecurity+Trainer;AI+%26+Cloud+Trainer;Machine+Learning+Engineer;Tech+Speaker;Motivational+Speaker;CO-Founder+and+CEO+@+SCEACADEMY" alt="Typing SVG" />
+### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2500&pause=1000&color=00FFD&center=true&vCenter=true&width=600&lines=Educator,Trainer+and+Coach;Microsoft+Advance+Educator;Google+Educator;Apple+Teacher;IBM+Faculty;Adobe+Creative+Educator;Jamf+Educator;Network+Engineer;Security+Engineer;Cybersecurity+Trainer;AI+%26+Cloud+Trainer;Machine+Learning+Engineer;Tech+Speaker;Motivational+Speaker;CO-Founder+and+CEO+@+SCEACADEMY" alt="Typing SVG" />
 
 Passionate about Teaching Innovative Solutions with **AI, Cloud, and Modern New Development Skills**.  
 
