@@ -45,6 +45,8 @@ Passionate about Teaching Innovative Solutions with **AI, Cloud, and Modern New 
 <hr>
 
 
+## 🏆 Achievment 🏆 - **[Microsoft Advanced Educator 2025](https://learn.microsoft.com/api/achievements/share/en-us/ShahBaig-6389/AP69C2J7?sharingId=244CA8DC87A688C3)**, [Adobe Creative Educator Leader](https://www.credly.com/badges/5afa5965-d3c4-45c6-8917-8f90e630c3db)
+
 ## 🌐 Socials  
 
 .[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shahbaig_mcp) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shah-baig-scea/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)]([https://x.com/H_Shah126]) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@sb-sceacademic?si=V03cdF_Wi28bXB6B) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:educators@sceacademy.in)
