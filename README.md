@@ -59,7 +59,8 @@ Passionate about Teaching Innovative Solutions with **AI, Cloud, and Modern New 
 - 💞️ I’m looking to collaborate with Global Training Providers.
 - 📫 How to reach me to my Email
 - ⚡ Fun fact:
--
+
+- [More About Technology](https://github.com/Shahbaig-6389/sce-academy.git)
 - [Our Website: SCE-Academy](https://www.sceacademy.in)
 - **[LinkedIn Channel](https://www.linkedin.com/groups/14557265)**
 
