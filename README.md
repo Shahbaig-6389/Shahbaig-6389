@@ -23,7 +23,7 @@ Passionate about Teaching Innovative Solutions with **AI, Cloud, and Modern New 
 </a>
  <a href="https://edex.adobe.com/community/member/qkVwi0395" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/ADOBE EDU-%23FF0000.svg?style=for-the-badge&logo=Adobe&logoColor=white" alt="Adobe" />
-<br>
+ </a>
   <a href="https://www.credly.com/users/shah-baig.8694ecb6" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-Badges%20-%23FFA500.svg?style=for-the-badge&logo=bookstack&logoColor=white" alt="E-Books" />
   </a>
