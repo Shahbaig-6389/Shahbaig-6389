@@ -18,7 +18,7 @@ Passionate about 📚 Teaching Innovative Solutions with **🧠AI/ML🤖, ☁️
 <a href="https://learn.microsoft.com/en-us/users/shahbaig-6389/transcript/dg89b6xzqwqkr2v?tab=tab-challenges&source=docs" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Microsoft Certification%20Transcript-%230078D4.svg?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Certification Transcript" />
 </a>
- <a href="https://www.skills.google/profile/badges" target="_blank" rel="noopener noreferrer">
+ <a href="https://www.skills.google/profile/badges?credential_type=skill_badge" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Google-%23FFDD00.svg?style=for-the-badge&logo=Google&logoColor=white" alt="Google" />
 </a>
  <a href="https://edex.adobe.com/community/member/qkVwi0395" target="_blank" rel="noopener noreferrer">
