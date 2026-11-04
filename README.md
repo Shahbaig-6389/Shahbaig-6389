@@ -46,6 +46,9 @@ Passionate about 📚 Teaching Innovative Solutions with **🧠AI/ML🤖, ☁️
 ## 🏆 Achievment 🏆 - **[Microsoft Advanced Educator 2025](https://learn.microsoft.com/api/achievements/share/en-us/ShahBaig-6389/AP69C2J7?sharingId=244CA8DC87A688C3)**, [Adobe Creative Educator Leader](https://www.credly.com/badges/5afa5965-d3c4-45c6-8917-8f90e630c3db)
 
 
+## [My Services🫴](https://www.linkedin.com/services/page/36bb4833970b42a081)
+
+
 
 ## 🌐 Socials  
 
